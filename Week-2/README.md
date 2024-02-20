@@ -32,7 +32,6 @@ The task involves analyzing various datasets to determine the performance and po
 ## Files Included
 - **EDA Notebook (ipynb file)**: Jupyter Notebook containing code for data analysis, visualization, and hypothesis testing.
 - **Data Intake Report (pdf file)**: Summary of data properties, cleaning steps, and integration.
-- **Profiling Results (csv files)**: Profiled data for additional insights (not discussed in detail).
 
 
 ## Dependencies
