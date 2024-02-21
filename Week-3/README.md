@@ -29,17 +29,18 @@ The task involves analyzing various datasets to determine the performance and po
 5. **Conclusion and Recommendation**: Summarize findings and provide recommendations on which cab company presents a better investment opportunity.
 
 
-## Files Included
-- **EDA Notebook (ipynb file)**: Jupyter Notebook containing code for data analysis, visualization, and hypothesis testing.
-- **Data Intake Report (pdf file)**: Summary of data properties, cleaning steps, and integration.
-- **Profiling Results (csv files)**: Profiled data for additional insights (not discussed in detail).
-
-
 ## Dependencies
 - Python 3.x
 - Pandas
 - Matplotlib
 - Seaborn
+
+## Folder Contents
+This folder contains the presentation for week 3 of the project. The data files and code used for analysis can be found in the [Week-2 folder](https://github.com/manishabarse/Data_Glacier_Internship/edit/main/Week-2).
+
+## Additional Information
+For further details on the project methodology, dataset description, and dependencies, please refer to the project presentation and the code files in the week-2 folder.
+
 
 
 
